@@ -1,6 +1,6 @@
-# Drive Space Storage Management
+# Store It Storage Management
 
-Drive Space is a web-based storage management application built with React and Next.js. It allows users to upload, view, and manage files such as documents, images, videos, and audio. The project integrates with Appwrite for backend storage and authentication, providing a secure and scalable solution for file management.
+Store It is a web-based storage management application built with React and Next.js. It allows users to upload, view, and manage files such as documents, images, videos, and audio. The project integrates with Appwrite for backend storage and authentication, providing a secure and scalable solution for file management.
 
 ## Features
 
