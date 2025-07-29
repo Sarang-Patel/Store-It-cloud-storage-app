@@ -40,7 +40,7 @@ Store It is a web-based storage management application built with React and Next
 
 You can access and explore the project directly through the following link:
 
-🔗 **[https://drive-space.netlify.app/](https://drive-space.netlify.app/)**
+🔗 **[Store It Cloud Storage App](https://store-it-cloud-storage.netlify.app/)**
 
 Simply open the link in your browser to start using the application.
 
