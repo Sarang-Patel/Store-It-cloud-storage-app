@@ -16,7 +16,7 @@ Store It is a web-based storage management application built with React and Next
 - **Styling:** Tailwind CSS, PostCSS
 - **Backend:** Appwrite (Storage, Authentication)
 - **Utilities:** ESLint, Prettier
-- **Other:** Vercel (Deployment), dotenv for environment variables
+- **Other:** Netlify (Deployment), dotenv for environment variables
 
 ## Surface Level Working
 
